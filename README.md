@@ -1,1 +1,2 @@
 # MailingService
+Ветка Master
